@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Dahc-Dragyn (Chad Nygard) from Vancouver, WA.
+- 👀 I’m interested in AI Agent development, Machine Learning, Python backend development (especially with FastAPI), cloud technologies (GCP, Cloud Run), video games, and epic fantasy.
+- 🌱 I’m currently learning more advanced FastAPI features, Firebase (Firestore and Auth) integration for data persistence and user management, and building practical AI agents.
+- 💞️ I’m looking to collaborate on interesting projects involving AI agents, Python backend development, or maybe even creative combinations of AI and TTRPGs (like D&D!).
+- 📫 How to reach me: ... at https://aiyoda.app or www.linkedin.com/in/chad-nygard
+- ⚡ Fun fact: I love to make people laugh!
+--->
