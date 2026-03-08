@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning more advanced FastMCP and FastAPI features, Firebase (Firestore and Auth) integration for data persistence and user management, and building practical AI agents.
 - 💞️ I’m looking to collaborate on interesting projects involving AI agents, Python backend development, or maybe even creative combinations of AI and TTRPGs (like D&D!).
 - 🚀 Technical Stack: Python (FastAPI/FastMCP), GCP (Cloud Run/GCP Architect), Firebase, any SDK and ML Engineering.
+- 🎯 A veteran Intelligence Analyst and 10-year IT defense contractor with boots-on-the-ground experience in global conflict zones
 - 📫 How to reach me: ... at https://aiyoda.app or www.linkedin.com/in/chad-nygard
 - ⚡ Fun fact: I love to make people laugh!
 --->
