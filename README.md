@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dahc-Dragyn (Chad Nygard) from Vancouver, WA.
-- 👀 I’m interested in AI Agent development, Machine Learning, Python backend development (especially with FastMCP and FastAPI), cloud technologies (GCP, Cloud Run), video games, and epic fantasy.
+- 👀 I’m interested in AI Agent development, Machine Learning, RUST, Python backend development (especially with FastMCP and FastAPI), cloud technologies (GCP, Cloud Run), video games, and epic fantasy.
 - 🌍 Focus: Creating AI Agents with "Layered DNA"—integrating forensic grounding with conversational texture.
 - 🌱 I’m currently learning more advanced FastMCP and FastAPI features, Firebase (Firestore and Auth) integration for data persistence and user management, and building practical AI agents.
 - 💞️ I’m looking to collaborate on interesting projects involving AI agents, Python backend development, or maybe even creative combinations of AI and TTRPGs (like D&D!).
